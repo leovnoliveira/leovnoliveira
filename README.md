@@ -55,4 +55,4 @@
 
 ###
 
- ![Snake animation](https://github.com/leovnoliveira/leovnoliveira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/leovnoliveira/leovnoliveira/raw/output/github-contribution-grid-snake.svg)
