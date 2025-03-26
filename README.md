@@ -73,7 +73,9 @@ FILE-TKEPUPIJ7CJTXKJXFHK8M1
 
 # :handshake: Connect with Me
 
- _"I’m always excited to collaborate on projects or just chat about data and tech. Whether it’s building the next big open-data pipeline or discussing the latest in AI agents, feel free to reach out! “Data is a precious thing and will last longer than the systems themselves.”_ – Tim Berners-Lee <!-- Professional README crafted with inspiration from top-tier examples (Bruno Tacca, Martin Heinz, etc.), following a narrative STAR approach and highlighting core values: open data, financial modeling, automation, and AI agents. -->
+ I’m always excited to collaborate on projects or just chat about data and tech. Whether it’s building the next big open-data pipeline or discussing the latest in AI agents, feel free to reach out!
+ 
+ _“Data is a precious thing and will last longer than the systems themselves.”_ – Tim Berners-Lee <!-- Professional README crafted with inspiration from top-tier examples (Bruno Tacca, Martin Heinz, etc.), following a narrative STAR approach and highlighting core values: open data, financial modeling, automation, and AI agents. -->
 
 
 
