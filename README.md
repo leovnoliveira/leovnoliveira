@@ -16,16 +16,13 @@ FILE-TKEPUPIJ7CJTXKJXFHK8M1
 - Data Engineering: AWS (S3, EC2, RDS), n8n, Databricks, dbt
 - Frameworks: Pandas, Scikit-Learn, TensorFlow
 - Automation: GitHub Actions, Docker, Selenium
-- Finance/Analysis: Excel/Sheets, Power BI, Ploty, Matplotlib <sub>(experience with financial datasets)</sub> <div align="center"> <!-- Icons via Shields.io or simple icons --> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange" alt="AWS" /> <br> <img src="https://img.shields.io/badge/Data%20Engineering-ffaa00?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Data Engineering" /> <img src="https://img.shields.io/badge/Automation-00b300?style=for-the-badge&logo=probot&logoColor=white" alt="Automation" /> <img src="https://img.shields.io/badge/Open%20Data-007EC6?style=for-the-badge&logo=databricks&logoColor=white" alt="Open Data" /> <img src="https://img.shields.io/badge/AI%20Agents-00AAFF?style=for-the-badge&logo=ai&logoColor=white" alt="AI Agents" /> </div> (Above: a snapshot of my most-used tools. I firmly believe in choosing the right tool for the job – and constantly learning new ones!)
+- Finance/Analysis: Excel/Sheets, Power BI, Ploty, Matplotlib <sub>(experience with financial datasets)</sub> <div align="center"> <!-- Icons via Shields.io or simple icons --> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange" alt="AWS" /> <br> <img src="https://img.shields.io/badge/Data%20Engineering-ffaa00?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Data Engineering" /> <img src="https://img.shields.io/badge/Automation-00b300?style=for-the-badge&logo=probot&logoColor=white" alt="Automation" /> <img src="https://img.shields.io/badge/Open%20Data-007EC6?style=for-the-badge&logo=databricks&logoColor=white" alt="Open Data" /> <img src="https://img.shields.io/badge/AI%20Agents-00AAFF?style=for-the-badge&logo=ai&logoColor=white" alt="AI Agents" /> </div> 
 
 📊 GitHub Stats
 
 <div align="center"> 
 
  </div> Consistent contributions and continuous learning. Check out some of my pinned projects below to see these stats in action – each commit tells a story of problem-solving and innovation.
-:handshake: Connect with Me
-
- I’m always excited to collaborate on projects or just chat about data and tech. Whether it’s building the next big open-data pipeline or discussing the latest in AI agents, feel free to reach out! “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee <!-- Professional README crafted with inspiration from top-tier examples (Bruno Tacca, Martin Heinz, etc.), following a narrative STAR approach and highlighting core values: open data, financial modeling, automation, and AI agents. -->
 
 
 <div align="">
@@ -34,6 +31,8 @@ FILE-TKEPUPIJ7CJTXKJXFHK8M1
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovnoliveira&theme=dracula&hide_border=false&&layout=compact&v=2"/>
   </a>
 </div>
+
+(Above: a snapshot of my most-used tools. I firmly believe in choosing the right tool for the job – and constantly learning new ones!)
 
 <div style="display: inline_block"><br>
   
