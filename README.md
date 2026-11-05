@@ -29,9 +29,10 @@ I also contribute to [Base dos Dados](https://github.com/basedosdados), Brazil's
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
   <img height="40" src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="Claude Code" title="Claude Code" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="Codex" title="Codex" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity-color.svg" alt="Antigravity" title="Antigravity" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" />
+  <img height="40" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claudecode-color.png" alt="Claude Code" title="Claude Code" />
+  <img height="40" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/codex-color.png" alt="Codex" title="Codex" />
+  <img height="40" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity-color.png" alt="Antigravity" title="Antigravity" />
 </p>
 
 <p align="left">
@@ -39,6 +40,10 @@ I also contribute to [Base dos Dados](https://github.com/basedosdados), Brazil's
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leovnoliveira&theme=dracula" alt="Most used languages" />
 </p>
 
-<img src="https://raw.githubusercontent.com/leovnoliveira/leovnoliveira/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leovnoliveira/leovnoliveira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leovnoliveira/leovnoliveira/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/leovnoliveira/leovnoliveira/output/github-snake.svg" />
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vn-oliveira/)
